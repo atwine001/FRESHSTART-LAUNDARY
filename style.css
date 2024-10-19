@@ -1,0 +1,146 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    color:black;
+    background-color: rgb(0, 102, 255);
+}
+.hd{
+    display: flex;
+    margin-left: 300px;
+}
+.hd h1{
+    font-size: 45px;
+}
+.hd img{
+    border-radius: 60px;
+    width: 95px;
+}
+
+h1,h2,h3{
+    column-gap: black;
+    margin-bottom: 10px;
+}
+p{
+    margin-bottom: 20px;
+}
+.logo{
+    border-radius: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+.down{
+    display: flex;
+    width: 75%;
+}
+.down h2{
+    font-size: xx-large;
+}
+.down p{
+    font-size: larger;
+}
+.down img{
+height: 300px;
+}
+.vision{
+    display: flex;
+    width: 75%;
+    margin-left: 150px;
+    height: 400px;
+}
+.src h2{
+    font-size: xx-large;
+}
+.src p{
+    font-size: larger;
+}
+nav{
+    text-align: right;
+    height: 35px;
+    margin-right: 60px;
+}
+a:hover{
+    color: brown;
+}
+/*Header styles*/
+header{
+    background-color: brown;
+    color: black;
+    padding: 15px;
+    text-align:center;
+}
+.cont h1{
+text-align: center;
+}
+.moreen img{
+    margin: 10px 10%;
+    width: 80%;
+    border-bottom-right-radius: 80px;
+    border-top-left-radius: 80px;
+}
+.serve img{
+    width: 80%;
+    height: 250px;
+}
+.serve ul{
+    display: flex;
+}
+.moreen button{
+    background-color: brown;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+}
+ul li{
+    margin: 20px;
+    background-color: aliceblue;
+    list-style: none;
+    padding: 80px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 400px;
+}
+
+.cont img{
+    margin: 20px 10%;
+    width: 80%;
+    border-top-right-radius: 80px;
+    border-bottom-left-radius: 80px;
+}
+.cont h1,h2{
+    font-size: xx-large;
+    color: black;
+}
+.cont p{
+    text-align: center;
+    font-size: larger;
+}
+form{
+   padding: 10px;
+    margin: 30px;
+    width: 100%;
+    height: 500px;
+}
+input{
+    display: block;
+    margin: 20px;
+    padding: 15px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 20px;
+    
+}
+
+
+
+
+
+
+ 
